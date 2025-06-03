@@ -1,0 +1,4 @@
+Nombre de la Tarea: Uso De Github
+Autor: Franklin & Jess
+Discripcion: este es un archivo de control para el uso del funcionamiento de las heramientas de Githob y el terminal
+Fecha: 2 de Junio de 2025
